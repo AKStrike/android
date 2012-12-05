@@ -22,6 +22,7 @@
   <project path="development" name="CyanogenMod/android_development" />
   <project path="device/common" name="CyanogenMod/android_device_common" />
   <project path="device/gingerdx-common" name="TeamFun/android_device_gingerdx-common" />
+  <project path="device/samsung/apollo" mame="TeamFun/android_device_samsung_apollo" />
   <project path="device/samsung/cooper" name="TeamFun/android_device_samsung_cooper" />
   <project path="device/sample" name="CyanogenMod/android_device_sample" />
   <project path="device/semc/shakira" name="TeamFun/android_device_semc_shakira" />
